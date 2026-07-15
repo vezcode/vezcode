@@ -1,47 +1,55 @@
-<div align="center">
-  <img height="539" src="https://i.pinimg.com/originals/10/f1/58/10f1581c5f987fd4cb56e6668cdd9df5.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Filip Kasperkiewicz — Founder and CEO of VEZ" src="./assets/hero-light.svg" width="100%">
+</picture>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
+<p align="center">
+  Building software products, infrastructure and digital systems across the <strong>VEZ ecosystem</strong>.
+</p>
 
-###
+<p align="center">
+  <a href="https://vezhq.com"><strong>VEZ</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://vezvision.com"><strong>VEZvision</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://vezlabs.dev"><strong>VEZlabs</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/vezcode"><strong>X / @vezcode</strong></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<br>
 
-###
+### Currently building
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vexcodee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td width="33%">
+      <strong>VEZ</strong><br><br>
+      Technology ecosystem connecting products, tools, infrastructure and services.
+    </td>
+    <td width="33%">
+      <strong>VEZvision</strong><br><br>
+      Software and digital solutions designed around real business needs.
+    </td>
+    <td width="33%">
+      <strong>VEZlabs</strong><br><br>
+      A testing ground for infrastructure, experiments and emerging technology.
+    </td>
+  </tr>
+</table>
 
-###
+<br>
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
+  <img alt="Focus areas: software, infrastructure, automation and applied AI" src="./assets/focus-dark.svg" width="100%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/vexcodee/vexcodee/output/snake.svg" alt="Snake animation" />
+<br>
 
-###
+<p align="center">
+  <sub>Filip Kasperkiewicz · @vezcode · Bielsko-Biała, Poland</sub>
+</p>
