@@ -31,7 +31,6 @@
   <g transform="translate(68 431)">
     <rect width="177" height="43" rx="12" fill="none" stroke="#252a32"/>
     <text x="20" y="28" fill="#f7f8fa" font-size="14" font-weight="600" letter-spacing="1.4">VEZ ECOSYSTEM</text>
-    <path d="M151 21h10m-4-4 4 4-4 4" stroke="#f7f8fa" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
   <text x="1160" y="74" text-anchor="end" fill="#a7adb7" font-size="14" letter-spacing="2">BIELSKO-BIAŁA · PL</text>
   <circle cx="1169" cy="450" r="4" fill="#f7f8fa"/>
