@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Filip Kasperkiewicz — Founder and CEO of VEZ" src="./assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="hero-light.svg">
+  <img alt="Filip Kasperkiewicz — Founder and CEO of VEZ" src="hero-light.svg" width="100%">
 </picture>
 
 <br>
@@ -44,8 +44,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg">
-  <img alt="Focus areas: software, infrastructure, automation and applied AI" src="./assets/focus-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="focus-dark.svg">
+  <img alt="Focus areas: software, infrastructure, automation and applied AI" src="focus-dark.svg" width="100%">
 </picture>
 
 <br>
